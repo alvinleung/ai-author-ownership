@@ -8,3 +8,8 @@ Line of inquiry
 - What might be the role of friction play into an interaction like this?
 
 How do we design ai for AI Skeptic?
+
+
+### References
+
+[Why Chatbots are not the Future](https://wattenberger.com/thoughts/boo-chatbots)

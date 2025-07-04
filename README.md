@@ -9,6 +9,9 @@ Lines of investigation
 
 How do we design ai for AI Skeptic?
 
+# Exploration idea
+Varying the timing of the repsnose of AI - how would it feels and impact the use?
+- hypothesis: longer delay would lead to more thougful use of AI
 
 ### References
 
